@@ -1,3 +1,5 @@
+<body>
+
 <h1>Flutter Note app using sqflite</h1>
 	<h3>Features of app :</h3>
 	<ol>
@@ -22,6 +24,7 @@
 
 
 
+</body>
 
 
 
